@@ -16,4 +16,4 @@ In the long term, **PSEL@UPD** aspires to be a leading research group that hou
 
 ---
 <div align="center">
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/kspilario.github.io/blob/master/LICENSE)
