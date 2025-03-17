@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Karl Ezra Pilario"
   pronouns         : "he/him"  
-  bio              : "Associate Professor at the Department of Chemical Engineering, UP Diliman, Philippines"
-  location         : "Earth"
+  bio              : "Associate Professor"
+  location         : # URL
   employer         : "University of the Philippines, Diliman"
   uri              : # URL
   email            : "kspilario@up.edu.ph" 
@@ -51,7 +51,7 @@ author:
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
-  facebook         : "https://www.facebook.com/kspilario/"
+  facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
