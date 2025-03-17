@@ -13,7 +13,3 @@ The Process Systems Engineering Laboratory at the University of the Philippines,
 
 In the long term, **PSEL@UPD** aspires to be a leading research group that houses the best talent in computer-aided chemical engineering in the Philippines, while being a trusted partner of industry practitioners and researchers locally and globally. 
 
-
----
-<div align="center">
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/kspilario.github.io/blob/master/LICENSE)
