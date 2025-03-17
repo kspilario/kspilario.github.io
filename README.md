@@ -1,7 +1,7 @@
 # Process Systems Engineering Laboratory
 **Department of Chemical Engineering, University of the Philippines, Diliman, Quezon City, Philippines**
 
-![psel_logo](images/psel_logo_2023.png "PSEL_logo")
+<img src="images/psel_logo_2023.png" width="200">
 
 # Mission
 
