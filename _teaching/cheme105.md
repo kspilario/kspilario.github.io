@@ -15,9 +15,9 @@ Introduction to programming as a computational tool; matrix algebra; analytical 
 
 ### COURSE OBJECTIVES
 After completing this course, the students should be able to:
-* Apply programming knowledge to solve problems in mathematics and science, with applications in chemical engineering;
-* Implement algorithms using computing programs;
-* Develop computing programs to solve chemical engineering problems;
-* Use linear algebra concepts in understanding systems of equations;
-* Use computational tools to obtain numerical solutions to linear and non-linear equations; and
+* Apply programming knowledge to solve problems in mathematics and science, with applications in chemical engineering
+* Implement algorithms using computing programs
+* Develop computing programs to solve chemical engineering problems
+* Use linear algebra concepts in understanding systems of equations
+* Use computational tools to obtain numerical solutions to linear and non-linear equations
 * Analyze the fit of models to data.
