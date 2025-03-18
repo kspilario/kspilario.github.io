@@ -1,5 +1,5 @@
 - title: "Predicting Algal Blooms in Laguna Lake"
-  description: "In collaboration with the Insitute of Chemistry and Institute of Mathematics at UPD, we found the best machine learning models for predicting chlorophyll-a levels in global lakes."
+  description: "In collaboration with the Insitute of Chemistry and Institute of Mathematics at UPD, we found the best machine learning models for predicting chlorophyll-a levels in global lakes. <a href="https://doi.org/10.1016/j.envc.2024.101056">Read more.</a>"
   image: "/images/algal_bloom.png"
 
 - title: "LSTMs for Urban Heating Prediction"
