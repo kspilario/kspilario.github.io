@@ -40,3 +40,31 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+.featured-research {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.research-item {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  max-width: 800px; /* Adjust width as needed */
+  margin: auto;
+}
+
+.research-img-container {
+  flex: 1;
+  max-width: 250px; /* Adjust image width */
+}
+
+.research-img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.research-description {
+  flex: 2;
+}
