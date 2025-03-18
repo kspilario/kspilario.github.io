@@ -15,7 +15,7 @@ Welcome to the Process Systems Engineering Laboratory at the University of the P
 
 History
 ======
-**PSEL@UPD** was established in 2012 upon the return of Dr. Jose C. Munoz to UPD from his Ph.D. at Chung Yuan Christian University (Taiwan). He headed the research laboratory until his retirement, advising both undergraduate and graduate research students. The lab is currently headed by Dr. Karl Ezra Pilario after he returned to UPD from his Ph.D. at Cranfield University (United Kingdom) in 2020.
+**PSEL@UPD** was established in 2012 upon the return of Dr. Jose C. Munoz to UPD from his Ph.D. at Chung Yuan Christian University (Taiwan). He headed the research laboratory until his retirement, advising both undergraduate and graduate research students. The lab is currently headed by **Dr. Karl Ezra Pilario** after he returned to UPD from his Ph.D. at Cranfield University (United Kingdom) in 2020.
 
 Mission
 ======
@@ -36,7 +36,7 @@ Featured Research
       </div>
       <div class="research-description">
         <h3>{{ item.title }}</h3>
-        <p>{{ item.description }}</p>
+        <p>{{ item.description | markdownify }}</p>
       </div>
     </div>
   {% endfor %}
