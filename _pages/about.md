@@ -29,7 +29,7 @@ Featured Research
 ======
 
 <div class="featured-research">
-  {% for item in site.data.research %}
+  {% for item in site.data.featured-research %}
     <div class="research-item">
       <div class="research-img-container">
         <img src="{{ item.image }}" alt="{{ item.title }}" class="research-img">
