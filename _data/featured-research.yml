@@ -1,7 +1,7 @@
-- title: "Predicting Algal Blooms in Laguna Lake"
+- title: "Predicting Algal Blooms in Laguna Lake and Global Lakes"
   description: "In collaboration with the Insitute of Chemistry and Institute of Mathematics at UPD, we found the best machine learning models for predicting chlorophyll-a levels in global lakes. <a href="https://doi.org/10.1016/j.envc.2024.101056">Read more.</a>"
   image: "/images/algal_bloom.png"
 
 - title: "LSTMs for Urban Heating Prediction"
-  description: "Our AI 221 students published their class project regarding the prediction of maximum temperature over Manila and Dagupan 5 years ahead."
+  description: "Our AI 221 students published their class project regarding the prediction of maximum temperature over Manila and Dagupan 5 years ahead. <a href="https://doi.org/10.1016/j.uclim.2025.102339">Read more.</a>"
   image: "/images/lstm_urbanheat.png"
