@@ -21,3 +21,9 @@ After completing this course, the students should be able to:
 * Use linear algebra concepts in understanding systems of equations
 * Use computational tools to obtain numerical solutions to linear and non-linear equations
 * Analyze the fit of models to data.
+
+
+
+
+
+
