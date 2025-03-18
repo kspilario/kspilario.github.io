@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+permalink: /teaching/
+layout: archive
+---
+
+Here is a list of courses I have taught:
+
+## Department of Chemical Engineering
+- [**ChemE 105**](/teaching/cheme105) Mathematical Methods in Chemical Engineering I
+- [**ChemE 182**](/teaching/cheme182) Chemical Process Dynamics and Control
+- [**ChE 197/297**](/teaching/che197297) Introduction to AI/ML for Chemical Engineers
+
+## Other Departments / Programs
+- [**AI 221**](/teaching/ai221) Classical Machine Learning
+- [**DS 397**](/teaching/ds397) Advanced Computational Methods in Data Science
+- [**ES 204**](/teaching/es204) Numerical Methods in Engineering
