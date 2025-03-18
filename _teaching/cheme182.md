@@ -1,7 +1,7 @@
 ---
 title: "ChemE 182: Chemical Process Dynamics and Control"
 collection: teaching
-type: "Graduate course"
+type: "Undergraduate course"
 permalink: /teaching/cheme182
 venue: "Department of Chemical Engineering, University of the Philippines, Diliman"
 location: "Quezon City, Philippines"
