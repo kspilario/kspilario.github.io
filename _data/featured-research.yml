@@ -1,7 +1,11 @@
 - title: "Predicting Algal Blooms in Laguna Lake and Global Lakes"
-  description: "In collaboration with the Insitute of Chemistry and Institute of Mathematics at UPD, we found the best machine learning models for predicting chlorophyll-a levels in global lakes. [Read more](https://doi.org/10.1016/j.envc.2024.101056)"
+  description: "In collaboration with the Insitute of Chemistry and Institute of Mathematics at UPD, we found the best ML models for predicting chlorophyll-a levels in lakes. [Read more](https://doi.org/10.1016/j.envc.2024.101056)"
   image: "/images/algal_bloom.png"
 
 - title: "LSTMs for Urban Heating Prediction"
   description: "Our AI 221 students published their class project regarding the prediction of maximum temperature over Manila and Dagupan 5 years ahead. [Read more](https://doi.org/10.1016/j.uclim.2025.102339)"
   image: "/images/lstm_urbanheat.png"
+
+- title: "Explainable AI for Fault Diagnosis"
+  description: "In collaboration with researchers from South Korea, we applied SHAP on adversarial autoencoders to perform combined fault detection and diagnosis. [Read more](https://ieeexplore.ieee.org/abstract/document/10032092)"
+  image: "/images/XAI_diagnosis.png"
