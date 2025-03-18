@@ -25,6 +25,20 @@ Vision
 ======
 In the long term, **PSEL@UPD** aspires to be a leading research group that houses the best Filipino talent in computer-aided chemical engineering in the Philippines, while being a trusted partner of industry practitioners and researchers locally and globally.
 
-Research
+Featured Research
 ======
-To know more about our work, see our Publications page. 
+
+<div class="featured-research">
+  {% for item in site.data.research %}
+    <div class="research-item">
+      <div class="research-img-container">
+        <img src="{{ item.image }}" alt="{{ item.title }}" class="research-img">
+      </div>
+      <div class="research-description">
+        <h3>{{ item.title }}</h3>
+        <p>{{ item.description }}</p>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
