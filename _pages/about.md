@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Karl Ezra Pilario, a faculty member in the Department of Chemical Engineering at the University of the Philippines Diliman, where I lead the Process Systems Engineering Laboratory (PSEL@UPD). Our laboratory specializes in computational research in chemical and process engineering, with a particular focus on process design and modelling, optimization, control, and monitoring (see upper left, lower left, upper right, lower right quadrants of our logo, respectively). Through these research thrusts, we aim to develop innovative solutions across various applications, contributing to the advancement of the United Nations Sustainable Development Goals.
+Hello! I am **Karl Ezra Pilario**, a faculty member in the Department of Chemical Engineering at the University of the Philippines Diliman, where I lead the Process Systems Engineering Laboratory (**PSEL@UPD**). Our laboratory specializes in *computational research* in chemical and process engineering, with a particular focus on *process design and modelling, optimization, control, and monitoring* (see upper left, lower left, upper right, lower right quadrants of our logo, respectively). Through these research thrusts, we aim to develop innovative solutions across various applications, contributing to the achievement of the U.N. Sustainable Development Goals.
 
 <p align="center">
     <img src="images/psel_logo_2023.png" width="200">
@@ -19,7 +19,7 @@ Our Mission
 
 Our Vision
 ======
-In the long term, **PSEL@UPD** aspires to be a leading research group that houses the best talent in computer-aided chemical engineering in the Philippines, while being a trusted partner of industry practitioners and researchers locally and globally.
+In the long term, **PSEL@UPD** aspires to be a leading research group that houses the *best talent in computer-aided chemical engineering in the Philippines*, while being a trusted partner of industry practitioners and researchers locally and globally.
 
 Featured Research
 ======
