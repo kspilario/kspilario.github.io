@@ -7,26 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the Process Systems Engineering Laboratory at the University of the Philippines, Diliman (PSEL@UPD). We are located at the Chemical Engineering Building, U.P. Diliman Campus, Quezon City, 1101, Philippines.
+Hello! I am Karl Ezra Pilario, a faculty member in the Department of Chemical Engineering at the University of the Philippines Diliman, where I lead the Process Systems Engineering Laboratory (PSEL@UPD). Our laboratory specializes in computational research in chemical and process engineering, with a particular focus on process design and modelling, optimization, control, and monitoring (see upper left, lower left, upper right, lower right quadrants of our logo, respectively). Through these research thrusts, we aim to develop innovative solutions across various applications, contributing to the advancement of the United Nations Sustainable Development Goals.
 
 <p align="center">
     <img src="images/psel_logo_2023.png" width="200">
 </p>
 
-History
+Our Mission
 ======
-**PSEL@UPD** was established in 2012 upon the return of Dr. Jose C. Munoz to UPD from his Ph.D. at Chung Yuan Christian University (Taiwan). He headed the research laboratory until his retirement, advising both undergraduate and graduate research students. The lab is currently headed by **Dr. Karl Ezra Pilario** after he returned to UPD from his Ph.D. at Cranfield University (United Kingdom) in 2020.
+**PSEL@UPD** is committed to advancing algorithmic, data-driven, and sustainable engineering solutions for process industries and related fields, including energy, water, and the environment. Our research leverages novel computational methods by integrating **machine learning**, **data analytics**, and **artificial intelligence** with fundamental **chemical engineering principles** to enhance process systems engineering activities.
 
-Mission
+Our Vision
 ======
-**PSEL@UPD** aims to provide algorithmic, data-driven, and sustainable engineering solutions to process industries and other fields such as energy, water, and the environment. We use computational tools by integrating **machine learning, data analytics, and artificial intelligence** with **chemical engineering principles** to aid process systems engineering activities such as design and simulation, modeling, control and monitoring, optimization, and predictive maintenance. 
-
-Vision
-======
-In the long term, **PSEL@UPD** aspires to be a leading research group that houses the best Filipino talent in computer-aided chemical engineering in the Philippines, while being a trusted partner of industry practitioners and researchers locally and globally.
+In the long term, **PSEL@UPD** aspires to be a leading research group that houses the best talent in computer-aided chemical engineering in the Philippines, while being a trusted partner of industry practitioners and researchers locally and globally.
 
 Featured Research
 ======
+Some of our most notable research and collaboration activities are as follows:
 
 <div class="featured-research">
   {% for item in site.data.featured-research %}
