@@ -56,14 +56,14 @@
   margin: auto;
 }
 
-.research-img-container {
+.research-img-container img {
   flex: 1;
+  border: 2px solid black;
   max-width: 250px; /* Adjust image width */
 }
 
 .research-img {
   width: 100%;
-  border: 2px solid black;
   border-radius: 10px;
 }
 
