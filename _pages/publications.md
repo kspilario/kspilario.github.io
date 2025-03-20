@@ -7,7 +7,7 @@ author_profile: true
 
 Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zoQ8AAAAJ&hl=en&oi=ao) profile.
 
-# Publications
+# Journal Papers
 
 2025
 ======
