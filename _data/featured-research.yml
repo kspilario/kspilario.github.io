@@ -7,19 +7,23 @@
   image: "/images/lstm_urbanheat.png"
 
 - title: "Explainable AI for Fault Diagnosis"
-  description: "In collaboration with researchers from South Korea, we applied SHAP on adversarial autoencoders to perform combined fault detection and diagnosis. [Read more](https://ieeexplore.ieee.org/abstract/document/10032092)"
+  description: "In collaboration with researchers from South Korea, we applied SHAP on adversarial autoencoders to perform combined fault detection and diagnosis in industrial plants. [Read more](https://ieeexplore.ieee.org/abstract/document/10032092)"
   image: "/images/XAI_diagnosis.png"
 
 - title: "Review of Kernel Methods in Fault Detection"
   description: "Kernel methods are popular alternatives to neural nets for pattern recognition. We reviewed 200+ papers on how they were developed for process monitoring and then identified their key issues. [Read more](https://doi.org/10.3390/pr8010024)"
   image: "/images/kernel_review_paper.png"
 
+- title: "Kernel Methods Learn System Dynamics from Data"
+  description: "Recurrent neural nets (RNNs) are widely used to learn the dynamics of processes straight from data. We show that kernel methods can beat RNNs if we pay attention to the kernel design. [Read more](https://ieeexplore.ieee.org/abstract/document/9102405)"
+  image: "/images/kernel_subspace.png"
+
 - title: "AutoML based Classification of Two-Phase Flow Regimes"
   description: "We breakdown the problem of flow regime identification in 3 steps: signal processing + dim. reduce + classification. The best workflow turns out to be DWT + KFDA + kNN. [Read more](https://doi.org/10.1016/j.enganabound.2024.03.006)"
   image: "/images/automl_flow_regime.png"
 
 - title: "ML-DFT based Segregation Prediction in Single-Atom Alloys"
-  description: "In collaboration with U.P. Los Banos physicists and the UPD Laboratory of Electrochemical Engineering, we used ML-DFT and identified potential catalysts for ORR. [Read more](https://doi.org/10.1016/j.commatsci.2023.112607)"
+  description: "In collaboration with physicists from Japan, U.P. Los Banos, and the UPD Laboratory of Electrochemical Engineering, we used ML-DFT and identified potential catalysts for ORR. [Read more](https://doi.org/10.1016/j.commatsci.2023.112607)"
   image: "/images/o_oh_dopant.png"
 
 - title: "Unsupervised learning on FTIR Spectra of Bee Honey"
