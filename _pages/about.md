@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Karl Ezra Pilario**, a faculty member in the Department of Chemical Engineering at the University of the Philippines Diliman, where I lead the Process Systems Engineering Laboratory (**PSEL@UPD**). Our laboratory specializes in *computational research* in chemical and process engineering, with a particular focus on *process design and modelling, optimization, control, and monitoring* (see upper left, lower left, upper right, lower right quadrants of our logo, respectively). Through these research thrusts, we aim to develop innovative solutions across various applications, contributing to the achievement of the U.N. Sustainable Development Goals.
+Hello! I am **Karl Ezra Pilario**, a faculty member in the Department of Chemical Engineering at the University of the Philippines Diliman, where I lead the Process Systems Engineering Laboratory (**PSEL@UPD**). 
+
+Our laboratory specializes in *computational research* in chemical engineering, with a particular focus on developing algorithms for *process design and modelling, optimization, control, and monitoring* (see upper left, lower left, upper right, lower right quadrants of our logo, respectively). Through our research, we aim to develop innovative solutions across various applications even beyond process industries, while contributing to the achievement of the U.N. Sustainable Development Goals.
 
 <p align="center">
     <img src="images/psel_logo_2023.png" width="200">
