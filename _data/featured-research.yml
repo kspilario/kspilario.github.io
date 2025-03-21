@@ -6,15 +6,15 @@
   description: "Our AI 221 students published their class project regarding the prediction of maximum temperature over Manila and Dagupan 5 years ahead. [Read more](https://doi.org/10.1016/j.uclim.2025.102339)"
   image: "/images/lstm_urbanheat.png"
 
-- title: "Explainable AI for Fault Diagnosis"
+- title: "Explainable AI for Fault Detection and Diagnosis"
   description: "In collaboration with researchers from South Korea, we applied SHAP on adversarial autoencoders to build a more accurate fault detection and diagnosis system in industrial plants. [Read more](https://ieeexplore.ieee.org/abstract/document/10032092)"
   image: "/images/XAI_diagnosis.png"
 
-- title: "Review of Kernel Methods in Fault Detection"
+- title: "A Review of Kernel Methods in Fault Detection"
   description: "Kernel methods are popular alternatives to neural nets for pattern recognition. We reviewed 200+ papers on how they were developed for process monitoring and then identified their key issues. [Read more](https://doi.org/10.3390/pr8010024)"
   image: "/images/kernel_review_paper.png"
 
-- title: "Kernel Methods Learn System Dynamics from Data"
+- title: "Kernel Methods vs. RNNs for Learning System Dynamics"
   description: "Recurrent neural nets (RNNs) are widely used to learn the dynamics of processes straight from data. When training data is limited, we show that kernel methods can beat RNNs if we pay attention to the kernel design. [Read more](https://ieeexplore.ieee.org/abstract/document/9102405)"
   image: "/images/kernel_subspace.png"
 
@@ -26,14 +26,14 @@
   description: "In collaboration with physicists from Japan, U.P. Los Banos, and the UPD Laboratory of Electrochemical Engineering, we used ML-DFT and identified potential catalysts for ORR. [Read more](https://doi.org/10.1016/j.commatsci.2023.112607)"
   image: "/images/o_oh_dopant.png"
 
-- title: "Unsupervised learning on FTIR Spectra of Bee Honey"
+- title: "Unsupervised Learning on FTIR Spectra of Bee Honey"
   description: "In collaboration with chemists from U.P. Los Banos and Pace University, USA, we used PCA and clustering to differentiate honey samples in the Philippines based on their FTIR spectra alone. [Read more](https://doi.org/10.1016/j.jfca.2022.104853)"
   image: "images/geo_ento_honey.png"
 
 - title: "Solar-Wind Energy Balancing in a Philippine Province"
-  description: "We applied canonical correlation analysis (CCA) to find the best pair of locations in Kalinga-Apayao where solar energy is balanced by wind energy to give stable power. [Read more](https://doi.org/10.3390/su14063253)"
+  description: "We used canonical correlation analysis (CCA) to find the best pair of locations in Kalinga-Apayao where solar energy is balanced by wind energy to give stable power. [Read more](https://doi.org/10.3390/su14063253)"
   image: "images/solar_wind_comp.png"
 
 - title: "Predicting Corrosion in Wind Turbine Support Structures"
-  description: "We trained 2 neural nets to estimate the crack extension on an offshore wind turbine support structure modeled in ANSYS, giving a more accurate reliability assessment under corrosion. [Read more](https://doi.org/10.1002/we.2542)"
+  description: "We trained neural nets to estimate the crack growth on an offshore wind turbine support structure modeled in ANSYS, giving a more accurate reliability assessment under corrosion. [Read more](https://doi.org/10.1002/we.2542)"
   image: "images/wind_turbine_corrosion.png"
