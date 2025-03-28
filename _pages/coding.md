@@ -6,7 +6,7 @@ layout: archive
 
 ## Competitive Programming
 
-I used to join *competitive programming contests* during my undergraduate years (2010-2012) and trained under a university-wide organization called *UP Programming Guild* at UP Diliman. The coverage of these contests include data structures, problem solving paradigms (dynamic programming, divide-and-conquer, etc.), graph theory, discrete math, strings, computational geometry, among other topics. 
+I used to join *competitive programming contests* during my undergraduate years (2010-2012) and trained under a university-wide organization called *UP Programming Guild* at UP Diliman. The coverage of these contests include data structures, algorithms, problem solving paradigms (dynamic programming, divide-and-conquer, etc.), graph theory, discrete mathematics, strings, computational geometry, among other topics. 
 
 You can find my profiles on the following platforms where we train for contests:
 - **Project Euler** (Username: kspilario)
