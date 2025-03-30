@@ -65,3 +65,8 @@ Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zo
 * **Pilario, K.E.S.**, Cao, Y., Shafiee, M., Lao, L. (2019). Reconstruction based fault prognosis in dynamic processes using canonical variate analysis. *25th International Conference on Automation and Computing (ICAC)*. Lancaster University, U.K. IEEE. [[Link](https://doi.org/10.23919/IConAC.2019.8895249)]
 * **Pilario, K.E.S.**, Cao, Y. Shafiee, M. (2019). Incipient Fault Detection, Diagnosis, and Prognosis using Canonical Variate Dissimilarity Analysis. *Computer-Aided Chemical Engineering*, Vol. 46, 1195-1200. [[Link](https://doi.org/10.1016/B978-0-12-818634-3.50200-9)]
 * **Pilario, K.E.S.** and Cao, Y. (2017). Process Incipient Fault Detection using Canonical Variate Analysis. *23rd International Conference on Automation and Computing (ICAC)*. University of Huddersfield, U.K. IEEE. [[Link](https://doi.org/10.23919/IConAC.2017.8082031)]
+
+# Copyrights
+
+* Palmero, M.A., Hipolito, A.N.P., Padama, A.A.B., **Pilario, K.E.S.** (2025). INTELLISORP: Aritificial Intelligence-Assisted Adsorption Energy Prediction on Multicomponent Alloy Surfaces. 21 February 2025. Philippines.
+
