@@ -68,5 +68,5 @@ Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zo
 
 # Copyrights
 
-* Palmero, M.A., Hipolito, A.N.P., Padama, A.A.B., **Pilario, K.E.S.** (2025). INTELLISORP: Aritificial Intelligence-Assisted Adsorption Energy Prediction on Multicomponent Alloy Surfaces. 21 February 2025. Philippines.
+* Palmero, M.A., Hipolito, A.N.P., Padama, A.A.B., **Pilario, K.E.S.** (2025). INTELLISORP: Artificial Intelligence-Assisted Adsorption Energy Prediction on Multicomponent Alloy Surfaces. 21 February 2025. Philippines.
 
