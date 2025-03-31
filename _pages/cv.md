@@ -26,6 +26,12 @@ Work Experience
   * University of the Philippines, Diliman
   * Roles: Teaching, Research, Admin, Extension
 
+Licenses
+======
+* Chemical Engineer No. 28500
+  * Professional Regulatory Commission, Philippines
+  * Awarded: December 2012
+
 Awards
 ======
 * **Limcaoco Outstanding Young Instructor Award**
@@ -39,7 +45,7 @@ Awards
   * Dominador Ilio Professorial Chair (2015-2017)
   * Hydro Resources Professorial Chair (2020-2022)
   * Juan Jr. and Rosario Halili-Quintos Professorial Chair (2022-2023)
-  * UP KEM Global - Dr. Luz Salonga Professorial Chair (2023)
+  * UP KEM Global - Dr. Luz Salonga Professorial Chair (2023-2024)
 * **Faculty Development - Ph.D. Foreign Scholarship**
   * Awarded by the DOST Engineering Research and Development for Technology (ERDT) Program
   * Funding to pursue doctoral studies at Cranfield University, United Kingdom (Feb 2017 - Feb 2020).
