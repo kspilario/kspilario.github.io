@@ -29,3 +29,9 @@ My experience in these programming contests became the biggest reason why I purs
 You can find my codes regarding research and other fun stuff in these links:
 - [**MATLAB File Exchange**](https://www.mathworks.com/matlabcentral/profile/authors/8722869?detail=fileexchange) 
 - [**Github**](https://github.com/kspilario)
+
+## MATLAB Cody Problems for Chemical Engineers
+
+I teach a beginner MATLAB course for chemical engineering students at UPD. I train my students in the same way that I train for programming contests: Solve many problems! If you want to have a go at my coding problems, you can find them hosted in MATLAB Cody:
+- [**Chemical Engineering Problems I**](https://www.mathworks.com/matlabcentral/cody/groups/2385) - Beginner ChemE problems
+- [**Chemical Engineering Problems II**](https://www.mathworks.com/matlabcentral/cody/groups/2508) - ChemE problems involving graph algorithms
