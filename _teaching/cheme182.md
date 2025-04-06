@@ -8,7 +8,7 @@ location: "Quezon City, Philippines"
 ---
 
 ### COURSE DESCRIPTION
-Introduction to process dynamics of simple chemical systems. Objectives and performance of control systems.
+Introduction to process dynamics of simple chemical systems. Time-domain, Laplace-domain, and frequency-domain techniques. Design and simulation of PID controllers for SISO systems.
 
 ### COURSE CREDIT
 3 units (2 hr/week lecture; 3 hr/week lab)
