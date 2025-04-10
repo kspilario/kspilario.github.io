@@ -12,7 +12,7 @@ Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zo
 
 2025
 ======
-* Khan, U., Pao, W., **Pilario, K.E.**, Sallih, N., Sohail, M. (2025). Real-Time Automatic Flow Regime Classification and Mapping for Vertical Pipes Using Dynamic Pressure Signals. *International Journal of Multiphase Flow*. Early Access. [[Link](https://doi.org/10.1016/j.ijmultiphaseflow.2025.105252)]
+* Khan, U., Pao, W., **Pilario, K.E.**, Sallih, N., Sohail, M., Azam, H. (2025). Real-Time Automatic Flow Regime Classification and Mapping for Vertical Pipes Using Dynamic Pressure Signals. *International Journal of Multiphase Flow*. Early Access. [[Link](https://doi.org/10.1016/j.ijmultiphaseflow.2025.105252)]
 * Gojo Cruz, J.I., de Vera, J.M.L., **Pilario, K.E.** (2025). Machine learning-driven analysis of agro-climatic data for temperature modeling and forecasting in Philippine urban areas. *Urban Climate*, Vol. 60, 102339. [[Link](https://doi.org/10.1016/j.uclim.2025.102339)]
 
 2024
