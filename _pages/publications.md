@@ -63,6 +63,7 @@ Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zo
 
 # Conference Proceedings
 
+* Hipolito, A.N., Palmero, M.A., Ordillo, V.Z., Shimizu, K, Putungan, D.B., Santos-Putungan, A.B., Ocon, J.D., Watanabe, S., **Pilario, K.E.S.**, Padama, A.A.B. (2023). Investigating O-and OH- induced dopant segregation in single-atom alloy surfaces using density functional theory and machine learning. *Annual Meeting of the Japan Society of Vacuum and Surface Science 2023*. [[Link](https://www.jstage.jst.go.jp/article/jvss/2023/0/2023_2Fp08/_article)]
 * Madayag, J.V., **Pilario, K.E.** (2023). Multi-Kernel Canonical Variate Analysis with Bayesian Optimized Kernel Designs for Nonlinear System Identification. *Computer-Aided Chemical Engineering*. Vol. 52, 1573-1578. [[Link](https://doi.org/10.1016/B978-0-443-15274-0.50250-X)]
 * **Pilario, K.E.S.**, Shafiee, M. (2020). Mixed Kernel Functions for Multivariate Statistical Monitoring of Nonlinear Processes. In: Ball, A., Gelman, L., Rao, B. (eds) Advances in Asset Management and Condition Monitoring. Smart Innovation, Systems and Technologies. Vol. 166. Springer, p. 61-67. Springer. [[Link](https://doi.org/10.1007/978-3-030-57745-2_6)]
 * **Pilario, K.E.S.**, Cao, Y., Shafiee, M., Lao, L. (2019). Reconstruction based fault prognosis in dynamic processes using canonical variate analysis. *25th International Conference on Automation and Computing (ICAC)*. Lancaster University, U.K. IEEE. [[Link](https://doi.org/10.23919/IConAC.2019.8895249)]
