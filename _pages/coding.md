@@ -15,14 +15,7 @@ You can find my profiles on the following platforms where we train for contests:
 More recently, I also joined Cody to improve my MATLAB skills:
 - **MATLAB Cody** ([Profile](https://www.mathworks.com/matlabcentral/cody/players/8722869)) - 2,800+ Problems Solved 
 
-Our teams from UPPG regularly compete in national contests and the [ACM-ICPC](https://icpc.global/) (Association for Computing Machinery - International Collegiate Programming Contest), *"the premier global programming competition conducted by and for the world’s universities"*. I am proud that my team has been awarded:
-
-- *1st Place* (2012) at the Java Cup Inter-collegiate Programming Contest, sponsored by UP CURSOR, UP Diliman
-- *1st Place* (2010) and *2nd Place* (2011) at the Inter-University Programming Contest (IUPC), Ateneo de Manila University
-- *Honorable Mention Award* (2010) at the ACM-ICPC, Asia Regionals, held at Kuala Lumpur, Malaysia
-- *3rd Place* (2010) at the ACM-ICPC Nationals, Ateneo de Naga University, Naga City
-
-My experience in these programming contests became the biggest reason why I pursue computational research in chemical engineering today. Now, I solve problems by thinking in terms of algorithms. I believe that if an idea is clear to me, I can always code it. And I love it when the same elegant solution solves many seemingly unrelated problems at once!  
+Our teams from UPPG regularly compete in national contests and the [ACM-ICPC](https://icpc.global/) (Association for Computing Machinery - International Collegiate Programming Contest), *"the premier global programming competition conducted by and for the world’s universities"*. My experience in these programming contests became the biggest reason why I pursue computational research in chemical engineering today. Now, I solve problems by thinking in terms of algorithms. I believe that if an idea is clear to me, I can always code it. And I love it when the same elegant solution solves many seemingly unrelated problems at once!  
 
 As a way of giving back, I occasionally help in preparing for the National Olympiad in Informatics, Philippines ([NOI.PH](https://noi.ph/)) and other national programming contests.
 
