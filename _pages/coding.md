@@ -22,7 +22,9 @@ Our teams from UPPG regularly compete in national contests and the [ACM-ICPC](ht
 - *Honorable Mention Award* (2010) at the ACM-ICPC, Asia Regionals, held at Kuala Lumpur, Malaysia
 - *3rd Place* (2010) at the ACM-ICPC Nationals, Ateneo de Naga University, Naga City
 
-My experience in these programming contests became the biggest reason why I pursue computational research in chemical engineering today. As a way of giving back, I occasionally help in preparing for the National Olympiad in Informatics, Philippines ([NOI.PH](https://noi.ph/)) and other national programming contests.
+My experience in these programming contests became the biggest reason why I pursue computational research in chemical engineering today. Now, I solve problems by thinking in terms of algorithms. I believe that if an idea is clear to me, I can always code it. And I love it when the same elegant solution solves many seemingly unrelated problems at once!  
+
+As a way of giving back, I occasionally help in preparing for the National Olympiad in Informatics, Philippines ([NOI.PH](https://noi.ph/)) and other national programming contests.
 
 ## Online Code Repositories
 
