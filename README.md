@@ -11,5 +11,5 @@ The Process Systems Engineering Laboratory at the University of the Philippines,
 
 # Vision
 
-In the long term, **PSEL@UPD** aspires to be a leading research group that houses the best talent in computer-aided chemical engineering in the Philippines, while being a trusted partner of industry practitioners and researchers locally and globally. 
+In the long term, **PSEL@UPD** aspires to be a leading research group that nurtures students to become the best researchers in computer-aided chemical engineering in the Philippines, while being a trusted partner of industries and research institutions locally and globally.
 
