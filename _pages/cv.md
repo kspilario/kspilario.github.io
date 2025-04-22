@@ -14,6 +14,7 @@ Education
 * Ph.D in Energy and Power, Cranfield University, 2020
 * M.S. in Chemical Engineering, University of the Philippines Diliman, 2015
 * B.S. in Chemical Engineering (*Summa cum laude*), University of the Philippines Diliman, 2012
+  * GPA: 1.194 (or 3.93 on a 4.00-point scale)
 
 Work Experience
 ======
@@ -31,6 +32,17 @@ Licenses
 * Chemical Engineer No. 28500
   * Professional Regulatory Commission, Philippines
   * Awarded: December 2012
+
+Trainings
+======
+* Emerson Process Management – Product Training Workshop (11 May 2016 to 1 June 2016)
+* Fluor Daniel, Inc., Philippines - Basic Process Engineering Program (6 June 2016 to 29 July 2016)
+
+Memberships
+======
+* Editorial Board, Process Integration and Optimization for Sustainability journal (since Feb 2024)
+* Provisionary Member, Philippine-American Academy of Science and Engineering (since 23 Jun 2024)
+* Member, Philippine Institute of Chemical Engineers (PIChE) - Metro Manila Academe Chapter
 
 Awards
 ======
