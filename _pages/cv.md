@@ -35,6 +35,7 @@ Licenses
 
 Trainings
 ======
+* Oxford University Machine Learning (OxML) Summer School (27 June 2022 to 10 August 2022)
 * Emerson Process Management – Product Training Workshop (11 May 2016 to 1 June 2016)
 * Fluor Daniel, Inc., Philippines - Basic Process Engineering Program (6 June 2016 to 29 July 2016)
 
