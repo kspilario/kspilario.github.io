@@ -56,12 +56,15 @@ Memberships
 
 Awards
 ======
-* **Limcaoco Outstanding Young Instructor Award**
-  * Given by UP College of Engineering for teaching effectiveness, innovation, advising, and mentoring in student competitions.
-  * Date: April 2015
+* Listed as one of the **Emerging Stars in Digital Chemical Engineering**
+  * Invited [paper](https://doi.org/10.1016/j.dche.2024.100163) at Digital Chemical Engineering (DCHE) journal, published 2024
+  * Citation can be found in the [Special Issue](https://www.sciencedirect.com/special-issue/10XBND734XC) of DCHE journal.
 * **University Scientist 1**
   * Rank given by the University of the Philippines System for outstanding scientific productivity and academic reputation in their field.
   * Date: September 2024
+* **Limcaoco Outstanding Young Instructor Award**
+  * Given by UP College of Engineering for teaching effectiveness, innovation, advising, and mentoring in student competitions.
+  * Date: April 2015
 * **Professorial Chair Awards**
   * Grants given to high-performing faculty at the UP College of Engineering.
   * Dominador Ilio Professorial Chair (2015-2017)
