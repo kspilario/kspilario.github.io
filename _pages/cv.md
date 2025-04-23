@@ -11,10 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Energy and Power, Cranfield University, 2020
-* M.S. in Chemical Engineering, University of the Philippines Diliman, 2015
-* B.S. in Chemical Engineering (*Summa cum laude*), University of the Philippines Diliman, 2012
+* **Ph.D.** in Energy and Power, Cranfield University, 2020
+  * Thesis: *Fault Diagnosis and Prognosis for Nonlinear Dynamic Processes Using Kernel Methods*
+  * Supervisor: Dr. Yi Cao
+* **M.S.** in Chemical Engineering, University of the Philippines Diliman, 2015
+  * GPA: 1.000 (or 4.00 on a 4.00-point scale)
+  * Thesis: *Nonlinear Data Reconciliation with Gross Error Detection and Identification for Steady-state and Dynamic Processes*
+  * Supervisor: Dr. Jose Munoz
+* **B.S.** in Chemical Engineering (*Summa cum laude*), University of the Philippines Diliman, 2012
   * GPA: 1.194 (or 3.93 on a 4.00-point scale)
+  * Thesis: *Synthesis and Characterization of Microencapsulated N-Octadecane in Urea-Melamine-Formaldehyde Shell for Thermal Regulation*
+  * Supervisor: Dr. Angela Escoto
 
 Work Experience
 ======
@@ -35,9 +42,11 @@ Licenses
 
 Trainings
 ======
+* ICLR 2025 Workshop on Tackling Climate Change with Machine Learning: Data-Centric Approaches in ML for Climate Action (28 April 2025)
 * Oxford University Machine Learning (OxML) Summer School (27 June 2022 to 10 August 2022)
 * Emerson Process Management – Product Training Workshop (11 May 2016 to 1 June 2016)
 * Fluor Daniel, Inc., Philippines - Basic Process Engineering Program (6 June 2016 to 29 July 2016)
+* Sakura Science Exchange Program, Kumamoto University, Japan (27 Sept 2015 to 6 Oct 2015)
 
 Memberships
 ======
