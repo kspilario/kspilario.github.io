@@ -11,24 +11,24 @@ redirect_from:
 
 Education
 ======
-* **Ph.D.** in Energy and Power, Cranfield University, 2020
+* **Ph.D. in Energy and Power** (2020)
   * Thesis: *Fault Diagnosis and Prognosis for Nonlinear Dynamic Processes Using Kernel Methods*
-  * Supervisor: Dr. Yi Cao
-* **M.S.** in Chemical Engineering, University of the Philippines Diliman, 2015
+  * Supervisor: Dr. Yi Cao, Cranfield University, UK
+* **M.S. in Chemical Engineering** (2015)
   * GPA: 1.000 (or 4.00 on a 4.00-point scale)
   * Thesis: *Nonlinear Data Reconciliation with Gross Error Detection and Identification for Steady-state and Dynamic Processes*
-  * Supervisor: Dr. Jose Munoz
-* **B.S.** in Chemical Engineering (*Summa cum laude*), University of the Philippines Diliman, 2012
+  * Supervisor: Dr. Jose Munoz, University of the Philippines, Diliman
+* **B.S. in Chemical Engineering**, *Summa cum laude* (2012)
   * GPA: 1.194 (or 3.93 on a 4.00-point scale)
   * Thesis: *Synthesis and Characterization of Microencapsulated N-Octadecane in Urea-Melamine-Formaldehyde Shell for Thermal Regulation*
-  * Supervisor: Dr. Angela Escoto
+  * Supervisor: Dr. Angela Escoto, University of the Philippines, Diliman
 
 Work Experience
 ======
 * Aug 2024 - Jul 2025: **Academic Visitor**
   * National University of Singapore
   * Research: Machine Learning in Model Predictive Control
-  * Supervisor: Prof. Zhe Wu
+  * Supervisor: Dr. Zhe Wu
 
 * Jul 2020 - Present: **Associate Professor**
   * University of the Philippines, Diliman
@@ -71,10 +71,10 @@ Awards
   * Hydro Resources Professorial Chair (2020-2022)
   * Juan Jr. and Rosario Halili-Quintos Professorial Chair (2022-2023)
   * UP KEM Global - Dr. Luz Salonga Professorial Chair (2023-2024)
-* **Faculty Development - Ph.D. Foreign Scholarship**
+* **Ph.D. Foreign Scholarship Grant**
   * Awarded by the DOST Engineering Research and Development for Technology (ERDT) Program
   * Funding to pursue doctoral studies at Cranfield University, United Kingdom (Feb 2017 - Feb 2020).
-* **Faculty Development - Postdoctoral Fellowship**
+* **Postdoctoral Fellowship Grant**
   * Awarded by the DOST Engineering Research and Development for Technology (ERDT) Program
   * Funding to pursue a post-doctoral position at the National University of Singapore (Aug 2024 - Jul 2025).
   
