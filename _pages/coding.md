@@ -8,7 +8,9 @@ layout: archive
 
 I used to join *competitive programming contests* during my undergraduate years (2010-2012) and trained under a university-wide organization called *UP Programming Guild (UPPG)* at UP Diliman. The coverage of these contests include data structures, algorithms, problem solving paradigms (dynamic programming, binary search, etc.), graph theory and graph algorithms, discrete mathematics, computational geometry, string processing, among other topics. 
 
-![UP Programming Guild in 2010](./images/uppg.png)
+<p align="center">
+    <img src="images/uppg.png" width="500">
+</p>
 
 You can find my profiles on the following platforms where we train for contests:
 - **Project Euler** ([Site](https://projecteuler.net/), Username: kspilario) - 200+ Problems Solved, Level 8
