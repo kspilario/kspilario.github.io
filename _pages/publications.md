@@ -12,6 +12,7 @@ Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zo
 
 2025
 ======
+* **Pilario, K.E.** and Wu, Z. (2025). Fast mixed kernel canonical variate analysis for learning-based nonlinear model predictive control. *Chemical Engineering Research and Design*. Vol. 219 (July 2025), 19-33. [[Link](https://doi.org/10.1016/j.cherd.2025.05.050)] [[Code](https://github.com/kspilario/MKCVA_MPC)]
 * Abiog, J.D., Cacal, V.C.C., Cadiz, K., **Pilario, K.E.** (2025). Long-term Solar and Wind Energy Forecasting using Gaussian Processes with Tree-Based Multiple Kernel Search. *Chemical Engineering Transactions* (Just Accepted).
 * Khan, U., Pao, W., **Pilario, K.E.**, Sallih, N., Sohail, M., Azam, H. (2025). Real-Time Automatic Flow Regime Classification and Mapping for Vertical Pipes Using Dynamic Pressure Signals. *International Journal of Multiphase Flow*. Vol. 189, 105252. [[Link](https://doi.org/10.1016/j.ijmultiphaseflow.2025.105252)]
 * Gojo Cruz, J.I., de Vera, J.M.L., **Pilario, K.E.** (2025). Machine learning-driven analysis of agro-climatic data for temperature modeling and forecasting in Philippine urban areas. *Urban Climate*. Vol. 60, 102339. [[Link](https://doi.org/10.1016/j.uclim.2025.102339)]
@@ -64,6 +65,7 @@ Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zo
 
 # Conference Proceedings
 
+* Cabahug, M.K., David, C.P.C., **Pilario, K.E.S.** (2023). Application of Geographic Information System (GIS) and Logistic Regression Model to Map the Potential Areas of Groundwater Springs. *GeoCon 2023*. Novotel Manila, Araneta City, Manila.
 * Hipolito, A.N., Palmero, M.A., Ordillo, V.Z., Shimizu, K, Putungan, D.B., Santos-Putungan, A.B., Ocon, J.D., Watanabe, S., **Pilario, K.E.S.**, Padama, A.A.B. (2023). Investigating O-and OH- induced dopant segregation in single-atom alloy surfaces using density functional theory and machine learning. *Annual Meeting of the Japan Society of Vacuum and Surface Science 2023*. [[Link](https://www.jstage.jst.go.jp/article/jvss/2023/0/2023_2Fp08/_article)]
 * Madayag, J.V., **Pilario, K.E.** (2023). Multi-Kernel Canonical Variate Analysis with Bayesian Optimized Kernel Designs for Nonlinear System Identification. *Computer-Aided Chemical Engineering*. Vol. 52, 1573-1578. [[Link](https://doi.org/10.1016/B978-0-443-15274-0.50250-X)]
 * **Pilario, K.E.S.**, Shafiee, M. (2020). Mixed Kernel Functions for Multivariate Statistical Monitoring of Nonlinear Processes. In: Ball, A., Gelman, L., Rao, B. (eds) Advances in Asset Management and Condition Monitoring. Smart Innovation, Systems and Technologies. Vol. 166. Springer, p. 61-67. Springer. [[Link](https://doi.org/10.1007/978-3-030-57745-2_6)]
