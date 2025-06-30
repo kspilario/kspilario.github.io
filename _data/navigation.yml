@@ -8,17 +8,20 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects"
+    url: /projects/
+
+  - title: "People"
+    url: /people/
+    
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Projects"
-    url: /projects/
 
   - title: "Coding"
     url: /coding/
+
+  - title: "CV"
+    url: /cv/
