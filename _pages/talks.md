@@ -5,6 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Artificial Intelligence for Mapping Chemical Spaces Towards Materials Discovery 
+Date: *15 July 2025*
+* Annual PAASE Meeting and Symposium (APAMS) 2025
+* Organizer: Philippine-American Academy of Science and Engineering (PAASE)
+* Venue: Online + University of South Carolina - Columbia, USA
+* Type: Parallel Session Speaker
+
 ## Machine Learning in Process Systems Engineering
 Date: *14 March 2025*
 * 4th International Conference on Engineering and Agro-Industrial Technology (iCEAT)
