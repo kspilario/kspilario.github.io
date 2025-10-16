@@ -65,6 +65,7 @@ Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zo
 
 # Conference Proceedings
 
+* Janer, J.M.S., **Pilario, K.E.S.** (2025). Surrogate-based Optimization of Anaerobic Digesters for Waste-to-Energy Applications. 86th PIChE (Philippine Institute of Chemical Engineers) National Convention, SMX Convention Center Davao, 13 September 2025. *Won Best Paper
 * Cabahug, M.K., David, C.P.C., **Pilario, K.E.S.** (2023). Application of Geographic Information System (GIS) and Logistic Regression Model to Map the Potential Areas of Groundwater Springs. *GeoCon 2023*. Novotel Manila, Araneta City, Manila.
 * Hipolito, A.N., Palmero, M.A., Ordillo, V.Z., Shimizu, K, Putungan, D.B., Santos-Putungan, A.B., Ocon, J.D., Watanabe, S., **Pilario, K.E.S.**, Padama, A.A.B. (2023). Investigating O-and OH- induced dopant segregation in single-atom alloy surfaces using density functional theory and machine learning. *Annual Meeting of the Japan Society of Vacuum and Surface Science 2023*. [[Link](https://www.jstage.jst.go.jp/article/jvss/2023/0/2023_2Fp08/_article)]
 * Madayag, J.V., **Pilario, K.E.** (2023). Multi-Kernel Canonical Variate Analysis with Bayesian Optimized Kernel Designs for Nonlinear System Identification. *Computer-Aided Chemical Engineering*. Vol. 52, 1573-1578. [[Link](https://doi.org/10.1016/B978-0-443-15274-0.50250-X)]
