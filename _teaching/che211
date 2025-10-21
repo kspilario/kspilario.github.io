@@ -1,0 +1,25 @@
+---
+title: "ChE 211: Optimization Methods in Chemical Engineering"
+collection: teaching
+type: "Graduate course"
+permalink: /teaching/che211
+venue: "Department of Chemical Engineering, University of the Philippines, Diliman"
+location: "Quezon City, Philippines"
+---
+
+### COURSE DESCRIPTION
+Applications of mathematical programming and other optimization methods to chemical engineering problems.
+
+### COURSE CREDIT
+3 units (3 hr/week)
+
+### COURSE OBJECTIVES
+After completing this course, the student should be able to:
+* Explain the general theory behind optimization methods.
+* Use common optimization algorithms for solving chemical engineering problems.
+* Analyze the relevance, sensitivity, and soundness of optimization results.
+* Evaluate current and novel optimization methods.
+
+### COURSE MATERIALS
+Please visit this [Github Repo](https://github.com/kspilario/ChE211).
+
