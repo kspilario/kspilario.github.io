@@ -5,6 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Current Trends in AI Adoption in Process Engineering
+Date: *17 October 2025*
+* 2nd Artificial Intelligence Horizons Philippines 2025 (AI Horizons PH25) Conference
+* Organizer: University of the Philippines
+* Venue: Online + University of the Philippines, Cebu
+* Type: Resource Speaker
+
 ## Artificial Intelligence for Mapping Chemical Spaces Towards Materials Discovery 
 Date: *15 July 2025*
 * Annual PAASE Meeting and Symposium (APAMS) 2025
@@ -47,3 +54,4 @@ Date: *20 March 2021*
 * Venue: Online
 * Type: Invited Speaker
 * [Slides](https://www.dropbox.com/scl/fi/3yxvz2vyz33nkhda2huh9/Course-Pack-Demo-PIChE-MMAC.pdf?rlkey=0ril55cwcc2907k0wuaens5zc&st=a9yehldu&dl=0)
+
