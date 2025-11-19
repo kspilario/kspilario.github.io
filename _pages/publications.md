@@ -65,10 +65,21 @@ Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zo
 
 # Conference Proceedings
 
+2025
+======
 * Janer, J.M.S., **Pilario, K.E.S.** (2025). Surrogate-based Optimization of Anaerobic Digesters for Waste-to-Energy Applications. 86th PIChE (Philippine Institute of Chemical Engineers) National Convention, SMX Convention Center Davao, 13 September 2025. *Won Best Paper
+* Romano, A., dela Pena, E.M., **Pilario, K.E.S.** (2025). Feature Selection-Driven Supervised Machine Learning for Dissolved Oxygen Prediction
+Using Multidomain Environmental Parameters in a Major Fishing Lake. 2nd International Conference on Advanced Materials & Sustainable Energy Technologies 2025, Sunway University, Kuala Lumpur, Malaysia, 13–14 November 2025. *Won Best Paper
+* Laag, J.E., **Pilario, K.E.S.** (2025). Machine Learning-Based Deforestation Monitoring and Forecasting Using Sentinel-2 Imagery: A Case Study in Narra, Palawan. Philippine Geomatics Symposium (PhilGEOS 2025), Quezon City, Philippines, 24-25 November 2025.
+
+2023
+======
 * Cabahug, M.K., David, C.P.C., **Pilario, K.E.S.** (2023). Application of Geographic Information System (GIS) and Logistic Regression Model to Map the Potential Areas of Groundwater Springs. *GeoCon 2023*. Novotel Manila, Araneta City, Manila.
 * Hipolito, A.N., Palmero, M.A., Ordillo, V.Z., Shimizu, K, Putungan, D.B., Santos-Putungan, A.B., Ocon, J.D., Watanabe, S., **Pilario, K.E.S.**, Padama, A.A.B. (2023). Investigating O-and OH- induced dopant segregation in single-atom alloy surfaces using density functional theory and machine learning. *Annual Meeting of the Japan Society of Vacuum and Surface Science 2023*. [[Link](https://www.jstage.jst.go.jp/article/jvss/2023/0/2023_2Fp08/_article)]
 * Madayag, J.V., **Pilario, K.E.** (2023). Multi-Kernel Canonical Variate Analysis with Bayesian Optimized Kernel Designs for Nonlinear System Identification. *Computer-Aided Chemical Engineering*. Vol. 52, 1573-1578. [[Link](https://doi.org/10.1016/B978-0-443-15274-0.50250-X)]
+
+2017-2020
+======
 * **Pilario, K.E.S.**, Shafiee, M. (2020). Mixed Kernel Functions for Multivariate Statistical Monitoring of Nonlinear Processes. In: Ball, A., Gelman, L., Rao, B. (eds) Advances in Asset Management and Condition Monitoring. Smart Innovation, Systems and Technologies. Vol. 166. Springer, p. 61-67. Springer. [[Link](https://doi.org/10.1007/978-3-030-57745-2_6)]
 * **Pilario, K.E.S.**, Cao, Y., Shafiee, M., Lao, L. (2019). Reconstruction based fault prognosis in dynamic processes using canonical variate analysis. *25th International Conference on Automation and Computing (ICAC)*. Lancaster University, U.K. IEEE. [[Link](https://doi.org/10.23919/IConAC.2019.8895249)]
 * **Pilario, K.E.S.**, Cao, Y. Shafiee, M. (2019). Incipient Fault Detection, Diagnosis, and Prognosis using Canonical Variate Dissimilarity Analysis. *Computer-Aided Chemical Engineering*. Vol. 46, 1195-1200. [[Link](https://doi.org/10.1016/B978-0-12-818634-3.50200-9)]
