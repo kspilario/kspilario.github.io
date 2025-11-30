@@ -5,6 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Machine Learning in Chemical Process Design, Optimization, and Control
+Date: *29 November 2025*
+* Batangas Chemical Engineering Symposium (BatChES) 2025
+* Organizer: Philippine Institute of Chemical Engineers (PIChE) Batangas Chapter
+* Venue: National University (NU) - Lipa
+* Type: Resource Speaker
+
 ## Current Trends in AI Adoption in Process Engineering
 Date: *17 October 2025*
 * 2nd Artificial Intelligence Horizons Philippines 2025 (AI Horizons PH25) Conference
@@ -54,4 +61,5 @@ Date: *20 March 2021*
 * Venue: Online
 * Type: Invited Speaker
 * [Slides](https://www.dropbox.com/scl/fi/3yxvz2vyz33nkhda2huh9/Course-Pack-Demo-PIChE-MMAC.pdf?rlkey=0ril55cwcc2907k0wuaens5zc&st=a9yehldu&dl=0)
+
 
