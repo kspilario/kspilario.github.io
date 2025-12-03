@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Teaching ML and AI in UP Diliman
+Date: *03 December 2025*
+* Organizer: National Research Council of the Philippines - Engineering and Industrial Research Division
+* Venue: Online
+* Type: Resource Speaker
+
 ## Machine Learning in Chemical Process Design, Optimization, and Control
 Date: *29 November 2025*
 * Batangas Chemical Engineering Symposium (BatChES) 2025
@@ -35,7 +41,7 @@ Date: *14 March 2025*
 * [Slides](https://www.dropbox.com/scl/fi/ieb1v5l8txvt9awpod0is/AI-ML-in-PSEL-iCEAT-Plenary-Talk.pdf?rlkey=lk6pzlleiu75d0qpb1mox7yej&st=7zsmb100&dl=0)
 
 ## Metal-organic Frameworks and How to Find Them
-Date: *2 December 2024*
+Date: *02 December 2024*
 * Asia Symposium on Net-Zero Engineering and Technologies
 * Organizer: Project RENetZero (Renewable Energy powered Production of Net Zero Energy Carriers: From Emerging Catalysis to Process Engineering)
 * Content: A survey of various machine learning-based search methods for finding good MOFs for carbon capture
@@ -61,5 +67,6 @@ Date: *20 March 2021*
 * Venue: Online
 * Type: Invited Speaker
 * [Slides](https://www.dropbox.com/scl/fi/3yxvz2vyz33nkhda2huh9/Course-Pack-Demo-PIChE-MMAC.pdf?rlkey=0ril55cwcc2907k0wuaens5zc&st=a9yehldu&dl=0)
+
 
 
