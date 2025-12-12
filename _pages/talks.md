@@ -8,6 +8,7 @@ author_profile: true
 ## Teaching ML and AI in UP Diliman
 Date: *03 December 2025*
 * Organizer: National Research Council of the Philippines - Engineering and Industrial Research Division
+* Event: Smart Science for Smart Industries: A Capacity-Building Workshop on AI in Engineering and Industrial Research
 * Venue: Online
 * Type: Resource Speaker
 
@@ -67,6 +68,7 @@ Date: *20 March 2021*
 * Venue: Online
 * Type: Invited Speaker
 * [Slides](https://www.dropbox.com/scl/fi/3yxvz2vyz33nkhda2huh9/Course-Pack-Demo-PIChE-MMAC.pdf?rlkey=0ril55cwcc2907k0wuaens5zc&st=a9yehldu&dl=0)
+
 
 
 
