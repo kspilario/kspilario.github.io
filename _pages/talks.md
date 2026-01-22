@@ -5,6 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Overview of AI and ML for the Filipino Audience
+Date: *16 January 2026*
+* Organizer: UP Academic League of Chemical Engineering Students (ALCHEMES)
+* Event: Research Fair 2026 - Youth Science Convention
+* Venue: Ignacio B. Gimenez – Kolehiyo ng Arte at Literatura (IBG-KAL) Theater
+* Type: Resource Speaker
+
 ## Teaching ML and AI in UP Diliman
 Date: *03 December 2025*
 * Organizer: National Research Council of the Philippines - Engineering and Industrial Research Division
@@ -68,6 +75,7 @@ Date: *20 March 2021*
 * Venue: Online
 * Type: Invited Speaker
 * [Slides](https://www.dropbox.com/scl/fi/3yxvz2vyz33nkhda2huh9/Course-Pack-Demo-PIChE-MMAC.pdf?rlkey=0ril55cwcc2907k0wuaens5zc&st=a9yehldu&dl=0)
+
 
 
 
