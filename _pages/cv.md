@@ -40,10 +40,11 @@ Licenses
   * Professional Regulatory Commission, Philippines
   * Awarded: December 2012
 
-Trainings
+Trainings Attended
 ======
+* 1st Openmind Winter School on Reinforcement Learning (26 Jan to 29 Jan 2026), UTAR, Kuala Lumpur, Malaysia 
 * ICLR 2025 Workshop on Tackling Climate Change with Machine Learning: Data-Centric Approaches in ML for Climate Action (28 April 2025)
-* Oxford University Machine Learning (OxML) Summer School (27 June 2022 to 10 August 2022)
+* Oxford University Machine Learning (OxML 2022) Summer School (27 June 2022 to 10 August 2022)
 * Emerson Process Management – Product Training Workshop (11 May 2016 to 1 June 2016)
 * Fluor Daniel, Inc., Philippines - Basic Process Engineering Program (6 June 2016 to 29 July 2016)
 * Sakura Science Exchange Program, Kumamoto University, Japan (27 Sept 2015 to 6 Oct 2015)
