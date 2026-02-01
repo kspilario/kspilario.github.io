@@ -30,7 +30,11 @@ Work Experience
   * Research: Machine Learning in Model Predictive Control
   * Supervisor: Dr. Zhe Wu
 
-* Jul 2020 - Present: **Associate Professor**
+* Jul 2020 - Aug 2025: **Associate Professor**
+  * University of the Philippines, Diliman
+  * Roles: Teaching, Research, Admin, Extension
+
+* Jul 2025 - Present: **Professor**
   * University of the Philippines, Diliman
   * Roles: Teaching, Research, Admin, Extension
 
