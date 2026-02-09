@@ -11,6 +11,11 @@ Date: *16 January 2026*
 * Event: Research Fair 2026 - Youth Science Convention
 * Venue: Ignacio B. Gimenez – Kolehiyo ng Arte at Literatura (IBG-KAL) Theater
 * Type: Resource Speaker
+Date: *06 February 2026*
+* Organizer: Office for Initiatives in Culture and Arts (OICA), University of the Philippines Diliman
+* Event: UP Diliman Arts and Culture Festival 2026
+* Venue: UP Carillon Grounds
+* Type: Resource Speaker and Panel Member
 
 ## Teaching ML and AI in UP Diliman
 Date: *03 December 2025*
@@ -75,6 +80,7 @@ Date: *20 March 2021*
 * Venue: Online
 * Type: Invited Speaker
 * [Slides](https://www.dropbox.com/scl/fi/3yxvz2vyz33nkhda2huh9/Course-Pack-Demo-PIChE-MMAC.pdf?rlkey=0ril55cwcc2907k0wuaens5zc&st=a9yehldu&dl=0)
+
 
 
 
