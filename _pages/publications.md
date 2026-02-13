@@ -12,6 +12,7 @@ Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zo
 
 2026
 ======
+* Moreno, C.S., Penaso, J.J., Valencia, E., Cortez, C.J., Ebriega, B.D., Pasaje, J., Serognas, R.D., Panaligan, A.D., de Leon, R., **Pilario, K.E.S.** (2026). Finding Low-Energy Experimental Metal-Organic Frameworks for Carbon Capture via Bayesian Optimization in the Manifold Subspace of Geometric Descriptors. *Artificial Intelligence Chemistry*. Just Accepted.
 * Laag, J.E. and **Pilario, K.E.S.** (2026). Machine Learning-Based Deforestation Monitoring and Forecasting Using Sentinel-2 Imagery: A Case Study in Narra, Palawan. *Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci. (ISPRS Archives)*, XLVIII-5/W4-2025, 143–150. [[Link](https://isprs-archives.copernicus.org/articles/XLVIII-5-W4-2025/143/2026/)]
 
 2025
