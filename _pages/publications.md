@@ -12,7 +12,7 @@ Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zo
 
 2026
 ======
-* Moreno, C.S., Penaso, J.J., Valencia, E., Cortez, C.J., Ebriega, B.D., Pasaje, J., Serognas, R.D., Panaligan, A.D., de Leon, R., **Pilario, K.E.S.** (2026). Finding Low-Energy Experimental Metal-Organic Frameworks for Carbon Capture via Bayesian Optimization in the Manifold Subspace of Geometric Descriptors. *Artificial Intelligence Chemistry*. Just Accepted. [[Link](https://doi.org/10.1016/j.aichem.2026.100112)]
+* Moreno, C.S., Penaso, J.J., Valencia, E., Cortez, C.J., Ebriega, B.D., Pasaje, J., Serognas, R.D., Panaligan, A.D., de Leon, R., **Pilario, K.E.S.** (2026). Finding Low-Energy Experimental Metal-Organic Frameworks for Carbon Capture via Bayesian Optimization in the Manifold Subspace of Geometric Descriptors. *Artificial Intelligence Chemistry*, Vol. 4(1), 100112. [[Link](https://doi.org/10.1016/j.aichem.2026.100112)]
 * Laag, J.E. and **Pilario, K.E.S.** (2026). Machine Learning-Based Deforestation Monitoring and Forecasting Using Sentinel-2 Imagery: A Case Study in Narra, Palawan. *Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci. (ISPRS Archives)*, XLVIII-5/W4-2025, 143–150. [[Link](https://isprs-archives.copernicus.org/articles/XLVIII-5-W4-2025/143/2026/)]
 
 2025
@@ -29,7 +29,7 @@ Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zo
 * Khan, U., Pao, W., **Pilario, K.E.**, Sallih, N. (2024). Flow Regime Classification using Various Dimensionality Reduction Methods and AutoML. *Engineering Analysis with Boundary Elements*. Vol. 163, 161-174. [[Link](https://doi.org/10.1016/j.enganabound.2024.03.006)]
 * Abantao, G., Ibanez, J.A., Bundoc, P.E.D.C., Blas, L.L.F., Penisa, X.N., Esparcia, E.A., Castro, M., Buendia, R.V., **Pilario, K.E.S.**, Tio, A.E.D., Cruz, I.B.N., Ocon, J.D., Odulio, C.M.F. (2024). Reconceptualizing Reliability Indices as Metrics to Quantify Power Distribution System Resilience. *Energies*. Vol. 17(8), 1909. [[Link](https://doi.org/10.3390/en17081909)]
 * Abantao, G., Ibañez, J.A., Bundoc, P.E.D.C., Blas, L.L.F., Penisa, X.N., Esparcia, E.A., Castro, M., **Pilario, K.E.S.**, Tio, A.E.D., Cruz, I.B.N., Ocon, J.D., Odulio, C.M.F. (2024). Utility-Scale Grid-Connected Microgrid Planning Framework for Sustainable Renewable Energy Integration. *Energies*. Vol. 17(20), 5206. [[Link](https://doi.org/10.3390/en17205206)]
-* Hipolito, A.N., Palmero, M.A., Ordillo, V.Z., Shimizu, K, Putungan, D.B., Santos-Putungan, A.B., Ocon, J.D., Watanabe, S., **Pilario, K.E.S.**, Padama, A.A.B. (2024). O-and OH-induced dopant segregation in single atom alloy surfaces: A combined density functional theory and machine learning study. *Computational Materials Science*. Vol. 232, 112607. [[Link](https://doi.org/10.1016/j.commatsci.2023.112607)]
+* Hipolito, A.N., Palmero, M.A., Ordillo, V.Z., Shimizu, K., Putungan, D.B., Santos-Putungan, A.B., Ocon, J.D., Watanabe, S., **Pilario, K.E.S.**, Padama, A.A.B. (2024). O-and OH-induced dopant segregation in single atom alloy surfaces: A combined density functional theory and machine learning study. *Computational Materials Science*. Vol. 232, 112607. [[Link](https://doi.org/10.1016/j.commatsci.2023.112607)]
 * Gnetchejo, P.J., Daniel, M.W., Dadje, A., Salome, N.E., **Pilario, K.E.**, Pierre, E., Chen, Z. (2024). A new approach based on modified social network search algorithm combined with dichotomy method for solar photovoltaic parameter estimation. *International Journal of Ambient Energy*. Vol. 45(1), 2281611. [[Link](https://doi.org/10.1080/01430750.2023.2281611)]
 * Ordillo, V.Z., Shimizu, K., Putungan, D.B., Santos-Putungan, A.B., Watanabe, S., de Leon, R.L., Ocon, J.D., **Pilario, K.E.S.**, Padama, A.A.B. (2024). Two-stage feature selection for machine learning-aided DFT-based surface reactivity study on single-atom alloys. *Modelling and Simulation in Materials Science and Engineering*. Vol. 32(6), 065003. [[Link](https://doi.org/10.1088/1361-651X/ad53ee)] 
 
@@ -42,7 +42,7 @@ Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zo
 
 2022
 ======
-* Tomacruz, J.G.T., **Pilario, K.E.S.**, Remolona, M.F.M., Padama, A.A.B, and Ocon, J.D. (2022). A Machine Learning-Accelerated Density Functional Theory (ML-DFT) Approach for Predicting Atomic Adsorption Energies on Monometallic Transition Metal Surfaces for Electrocatalyst Screening. *Chemical Engineering Transactions*. Vol. 94, 733-738. [[Link](https://doi.org/10.3303/CET2294122)]
+* Tomacruz, J.G.T., **Pilario, K.E.S.**, Remolona, M.F.M., Padama, A.A.B., and Ocon, J.D. (2022). A Machine Learning-Accelerated Density Functional Theory (ML-DFT) Approach for Predicting Atomic Adsorption Energies on Monometallic Transition Metal Surfaces for Electrocatalyst Screening. *Chemical Engineering Transactions*. Vol. 94, 733-738. [[Link](https://doi.org/10.3303/CET2294122)]
 * **Pilario, K.E.S.**, Ching, P.M.L., Calapatia, A.M., and Culaba, A.B. (2022). Predicting Drying Curves in Algal Biorefineries using Gaussian Process Autoregressive Models. *Digital Chemical Engineering*. Vol. 4, 100036. [[Link](https://doi.org/10.1016/j.dche.2022.100036)]
 * Grabato, J.R., **Pilario, K.E.**, Micor, J.R.L., and Mojica, E.R.E (2022). Geographical and entomological differentiation of Philippine honey by multivariate analysis of FTIR spectra. *Journal of Food Composition and Analysis*. Vol. 114, 104853. [[Link](https://doi.org/10.1016/j.jfca.2022.104853)]
 * Roxas II, R.M., Evangelista, M.A., Sombillo, J.A., Nnabuife, S.G., and **Pilario, K.E.S.** (2022). Machine Learning Based Flow Regime Identification using Ultrasonic Doppler Data and Feature Relevance Determination. *Digital Chemical Engineering*. Vol. 3, 100024. [[Link](https://doi.org/10.1016/j.dche.2022.100024)]
@@ -56,7 +56,7 @@ Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zo
 
 2020
 ======
-* Shittu, A., Mehmanparast, A., Shafiee, M., Kolios, A., Hart, P., and **Pilario, K.E.S.** (2020). Structural reliability assessment of offshore wind turbine support structures subjected to pitting corrosion‐ fatigue: A damage tolerance modelling approach. *Wind Energy*. Vol. 23(11), 2004-2026. [[Link](https://doi.org/10.1002/we.2542)]
+* Shittu, A., Mehmanparast, A., Shafiee, M., Kolios, A., Hart, P., and **Pilario, K.E.S.** (2020). Structural reliability assessment of offshore wind turbine support structures subjected to pitting corrosion‐fatigue: A damage tolerance modelling approach. *Wind Energy*. Vol. 23(11), 2004-2026. [[Link](https://doi.org/10.1002/we.2542)]
 * **Pilario, K.E.S.**, Shafiee, M., Cao, Y., Lao, L., and Yang, S.H. (2020). A Review of Kernel Methods for Feature Extraction in Nonlinear Process Monitoring. *Processes*. Vol. 8(1), 24. [[Link](https://doi.org/10.3390/pr8010024)]
 
 2019
