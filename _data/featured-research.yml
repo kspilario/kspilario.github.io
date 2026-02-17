@@ -1,15 +1,7 @@
-- title: "Predicting Algal Blooms in Laguna Lake and Global Lakes"
-  description: "In collaboration with the Insitute of Chemistry and Institute of Mathematics at UPD, we found the best ML models for predicting chlorophyll-a levels in lakes. [Read more](https://doi.org/10.1016/j.envc.2024.101056)"
-  image: "/images/algal_bloom.png"
-
-- title: "LSTMs for Urban Heating Prediction"
-  description: "Our AI 221 students published their class project regarding the prediction of maximum temperature over Manila and Dagupan 5 years ahead. [Read more](https://doi.org/10.1016/j.uclim.2025.102339)"
-  image: "/images/lstm_urbanheat.png"
-
-- title: "AI-based Deforestation Monitoring in Palawan"
-  description: "We built a deep learning pipeline to monitor and forecast deforestation using Sentinel-2 images of a forest region in Palawan. [Read more](https://doi.org/10.5194/isprs-archives-XLVIII-5-W4-2025-143-2026)"
-  image: "/images/deforestation_abstract.png"
-
+- title: "Exploring MOF Chemical Spaces for Carbon Capture"
+  description: "We performed Bayesian Optimization on the manifold subspace of MOF geometries to find the most energy-efficient sorbents for CO2 capture via pressure swing adsorption. [Read more](https://doi.org/10.1016/j.aichem.2026.100112)"
+  image: "/images/umap_bayesopt_mofs.png"
+  
 - title: "Explainable AI for Fault Detection and Diagnosis"
   description: "In collaboration with researchers from South Korea, we applied SHAP on adversarial autoencoders to build a more accurate fault detection and diagnosis system in industrial plants. [Read more](https://ieeexplore.ieee.org/abstract/document/10032092)"
   image: "/images/XAI_diagnosis.png"
@@ -42,3 +34,14 @@
   description: "We trained neural nets to estimate the crack growth on an offshore wind turbine support structure modeled in ANSYS, giving a more accurate reliability assessment under corrosion. [Read more](https://doi.org/10.1002/we.2542)"
   image: "images/wind_turbine_corrosion.png"
 
+- title: "Predicting Algal Blooms in Laguna Lake and Global Lakes"
+  description: "In collaboration with the Insitute of Chemistry and Institute of Mathematics at UPD, we found the best ML models for predicting chlorophyll-a levels in lakes. [Read more](https://doi.org/10.1016/j.envc.2024.101056)"
+  image: "/images/algal_bloom.png"
+
+- title: "LSTMs for Urban Heating Prediction"
+  description: "Our AI 221 students published their class project regarding the prediction of maximum temperature over Manila and Dagupan 5 years ahead. [Read more](https://doi.org/10.1016/j.uclim.2025.102339)"
+  image: "/images/lstm_urbanheat.png"
+
+- title: "AI-based Deforestation Monitoring in Palawan"
+  description: "We built a deep learning pipeline to monitor and forecast deforestation using Sentinel-2 images of a forest region in Palawan. [Read more](https://doi.org/10.5194/isprs-archives-XLVIII-5-W4-2025-143-2026)"
+  image: "/images/deforestation_abstract.png"
