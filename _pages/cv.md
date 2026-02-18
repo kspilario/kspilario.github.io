@@ -85,5 +85,13 @@ Awards
 * **Postdoctoral Fellowship Grant**
   * Awarded by the DOST Engineering Research and Development for Technology (ERDT) Program
   * Funding to pursue a post-doctoral position at the National University of Singapore (Aug 2024 - Jul 2025).
+* **Undergraduate Awards**
+  * Honorable Mention Award, 2010 ACM-ICPC (Association of Computing Machinery – Inter-Collegiate Programming Contest) Asia Regionals, Kuala Lumpur, Malaysia
+  * 1st place, 2010 Inter-University Programming Contest (IUPC), Ateneo de Manila University, Philippines
+  * 2nd Place, 2011 Inter-University Programming Contest (IUPC), Ateneo de Manila University, Philippines
+  * 3rd place, 2010 ACM-ICPC Nationals, Ateneo de Naga University, Philippines
+  * 1st place, 2012 Java Cup Programming Contest, sponsored by UP CURSOR, Philippines
+  * 2nd place, 2010 PIChE (Philippine Institute of Chemical Engineers) Chemical Engineering Quiz Bowl Nationals, Philippines
+  * 3rd place, 2011 PIChE (Philippine Institute of Chemical Engineers) Chemical Engineering Quiz Bowl Nationals, Philippines
   
 See my full CV in this [link](https://www.dropbox.com/scl/fi/dhu6u39se1fm73rr6ulo5/Karl-Ezra-Pilario-CV-2025.pdf?rlkey=a3eobo60mod0w528867l6vkel&st=jd09odob&dl=0).
