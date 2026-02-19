@@ -13,7 +13,7 @@ Education
 ======
 * **Ph.D. in Energy and Power** (2020)
   * Thesis: *Fault Diagnosis and Prognosis for Nonlinear Dynamic Processes Using Kernel Methods*
-  * Supervisor: Dr. Yi Cao, Cranfield University, UK
+  * Supervisor: Dr. Yi Cao, Cranfield University, United Kingdom
 * **M.S. in Chemical Engineering** (2015)
   * GPA: 1.000 (or 4.00 on a 4.00-point scale)
   * Thesis: *Nonlinear Data Reconciliation with Gross Error Detection and Identification for Steady-state and Dynamic Processes*
@@ -88,10 +88,10 @@ Awards
 * **Undergraduate Awards**
   * Honorable Mention Award, 2010 ACM-ICPC (Association of Computing Machinery – Inter-Collegiate Programming Contest) Asia Regionals, Kuala Lumpur, Malaysia
   * 1st place, 2010 Inter-University Programming Contest (IUPC), Ateneo de Manila University, Philippines
-  * 2nd Place, 2011 Inter-University Programming Contest (IUPC), Ateneo de Manila University, Philippines
+  * 2nd place, 2011 Inter-University Programming Contest (IUPC), Ateneo de Manila University, Philippines
   * 3rd place, 2010 ACM-ICPC Nationals, Ateneo de Naga University, Philippines
   * 1st place, 2012 Java Cup Programming Contest, sponsored by UP CURSOR, Philippines
   * 2nd place, 2010 PIChE (Philippine Institute of Chemical Engineers) Chemical Engineering Quiz Bowl Nationals, Philippines
   * 3rd place, 2011 PIChE (Philippine Institute of Chemical Engineers) Chemical Engineering Quiz Bowl Nationals, Philippines
   
-See my full CV in this [link](https://www.dropbox.com/scl/fi/dhu6u39se1fm73rr6ulo5/Karl-Ezra-Pilario-CV-2025.pdf?rlkey=a3eobo60mod0w528867l6vkel&st=jd09odob&dl=0).
+See my full CV in this [link](https://www.dropbox.com/scl/fi/5hyt2efes7t3yfc05bewc/Karl-Ezra-Pilario-CV-2026.pdf?rlkey=0zqus64uv088da15ioqw8w9gd&st=n2j6oysc&dl=0).
