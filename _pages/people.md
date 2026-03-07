@@ -44,6 +44,8 @@ author_profile: true
 
 # Faculty
 
-* **Karl Ezra S. Pilario**, Head
+* **Karl Ezra Pilario**, Head
 * **Jose Co Munoz**, Lecturer
 * **Ricardo Roxas**, Assistant Professor
+* **Johndel Obra**, Assistant Professor
+* **Elean Almazan**, Instructor 
