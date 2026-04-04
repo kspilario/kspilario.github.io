@@ -70,6 +70,10 @@ Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zo
 
 # Conference Presentations
 
+2026
+======
+* Truita, K.R., Peramo, E., Badong-Carlos, J., **Pilario, K.E.S.** (2026). Hybrid Machine Learning and Geostatistical Downscaling of ERA5-Land Data for High-Resolution Daily Precipitation Mapping Over the Philippines. *2026 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)*, Tokyo University of Science, Tokyo, Japan, 24-27 February 2026.
+
 2025
 ======
 * Janer, J.M.S., **Pilario, K.E.S.** (2025). Surrogate-based Optimization of Anaerobic Digesters for Waste-to-Energy Applications. *86th PIChE (Philippine Institute of Chemical Engineers) National Convention*, SMX Convention Center, Davao, 13 September 2025. **Won Best Paper**
