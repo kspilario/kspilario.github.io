@@ -25,6 +25,10 @@ Education
 
 Work Experience
 ======
+* Jul 2025 - Present: **Professor**
+  * University of the Philippines, Diliman
+  * Roles: Teaching, Research, Admin., Extension
+
 * Aug 2024 - Jul 2025: **Academic Visitor**
   * National University of Singapore
   * Research: Machine Learning in Model Predictive Control
@@ -32,11 +36,7 @@ Work Experience
 
 * Jul 2020 - Aug 2025: **Associate Professor**
   * University of the Philippines, Diliman
-  * Roles: Teaching, Research, Admin, Extension
-
-* Jul 2025 - Present: **Professor**
-  * University of the Philippines, Diliman
-  * Roles: Teaching, Research, Admin, Extension
+  * Roles: Teaching, Research, Admin., Extension
 
 Licenses
 ======
@@ -55,7 +55,8 @@ Trainings Attended
 
 Memberships
 ======
-* Editorial Board, Process Integration and Optimization for Sustainability journal (since Feb 2024)
+* Early Career Editorial Board Member, MDPI Processes (since May 2026) 
+* Editorial Board Member, Process Integration and Optimization for Sustainability journal (since Feb 2024)
 * Provisionary Member, Philippine-American Academy of Science and Engineering (since 23 Jun 2024)
 * Member, Philippine Institute of Chemical Engineers (PIChE) - Metro Manila Academe Chapter
 
