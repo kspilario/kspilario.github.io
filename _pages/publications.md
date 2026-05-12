@@ -12,6 +12,7 @@ Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zo
 
 2026
 ======
+* Romano, A.R., dela Pena, E.M.B., **Pilario, K.E.S.** (2026). Feature Selection-Driven Supervised Machine Learning for Dissolved Oxygen Prediction Using Multidomain Environmental Parameters in a Major Fishing Lake. *Materials Research Proceedings*, Vol. 66, 406-422. [[Link](https://mrforum.com/product/9781644904152-37/)]
 * Moreno, C.S., Penaso, J.J., Valencia, E., Cortez, C.J., Ebriega, B.D., Pasaje, J., Serognas, R.D., Panaligan, A.D., de Leon, R., **Pilario, K.E.S.** (2026). Finding Low-Energy Experimental Metal-Organic Frameworks for Carbon Capture via Bayesian Optimization in the Manifold Subspace of Geometric Descriptors. *Artificial Intelligence Chemistry*, Vol. 4(1), 100112. [[Link](https://doi.org/10.1016/j.aichem.2026.100112)]
 * Laag, J.E. and **Pilario, K.E.S.** (2026). Machine Learning-Based Deforestation Monitoring and Forecasting Using Sentinel-2 Imagery: A Case Study in Narra, Palawan. *Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci. (ISPRS Archives)*, XLVIII-5/W4-2025, 143–150. [[Link](https://isprs-archives.copernicus.org/articles/XLVIII-5-W4-2025/143/2026/)]
 
@@ -77,7 +78,7 @@ Check out my [Google Scholar](https://scholar.google.com.ph/citations?user=n41zo
 2025
 ======
 * Janer, J.M.S., **Pilario, K.E.S.** (2025). Surrogate-based Optimization of Anaerobic Digesters for Waste-to-Energy Applications. *86th PIChE (Philippine Institute of Chemical Engineers) National Convention*, SMX Convention Center, Davao, 13 September 2025. **Won Best Paper**
-* Romano, A., dela Pena, E.M., **Pilario, K.E.S.** (2025). Feature Selection-Driven Supervised Machine Learning for Dissolved Oxygen Prediction
+* Romano, A.R., dela Pena, E.M., **Pilario, K.E.S.** (2025). Feature Selection-Driven Supervised Machine Learning for Dissolved Oxygen Prediction
 Using Multidomain Environmental Parameters in a Major Fishing Lake. *2nd International Conference on Advanced Materials & Sustainable Energy Technologies 2025*, Sunway University, Kuala Lumpur, Malaysia, 13–14 November 2025. **Won Best Paper**
 * Laag, J.E., **Pilario, K.E.S.** (2025). Machine Learning-Based Deforestation Monitoring and Forecasting Using Sentinel-2 Imagery: A Case Study in Narra, Palawan. *Philippine Geomatics Symposium* (PhilGEOS 2025), Quezon City, Philippines, 24-25 November 2025.
 * Mondejar, L.C., Alamani, B.G., **Pilario, K.E.S.** (2025). Cocrystal Prediction Enhanced by UMAP Visualization and SMOTE-based Balancing in an Interpretable Machine Learning Framework. *19th Conference of Asian Crystallographic Association* (AsCA 2025), Taiwan, 03 December 2025.
