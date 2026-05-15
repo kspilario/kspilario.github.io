@@ -91,7 +91,11 @@ Using Multidomain Environmental Parameters in a Major Fishing Lake. *2nd Interna
 
 2022
 ======
-* Consular, M.R.C., Calangi, J.D., **Pilario, K.E.S.** (2022). Artificial Neural Network Based Surrogate Modeling for Optimization of an Industrial Batch Fermentation Process. 1st Place Winner and Best Digital Poster, Philippine Institute of Chemical Engineers National Student Congress (PIChE NatCon), 2022. 
+* Consular, M.R.C., Calangi, J.D., **Pilario, K.E.S.** (2022). Artificial Neural Network Based Surrogate Modeling for Optimization of an Industrial Batch Fermentation Process. 1st Place Winner and Best Digital Poster, Philippine Institute of Chemical Engineers National Student Congress (PIChE NatCon), 2022.
+
+2021
+======
+* Ibanez, J., Penisa, X., Obra, J., Odulio, C.M., Ocon, J., **Pilario, K.E.S.** (2021). Spatio-temporal Solar-Wind Complementarity Studies in the Provinces of Kalinga and Apayao, Philippines using Canonical Correlation Analysis. *16th Conference on Sustainable Development of Energy, Water and Environment Systems (SDEWES)*. Dubrovnik, Croatia, 10-15 October 2021. 
 
 2017-2020
 ======
