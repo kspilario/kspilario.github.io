@@ -46,6 +46,8 @@ Licenses
 
 Trainings Attended
 ======
+* BooS&TCamp: Designing Better Maps with QGIS (6 Jun 2026), Organized by Pinoy Scientists and Ologist Philippines
+* BooS&TCamp: Creating Impactful Data Visuals (23 May 2026), Organized by Pinoy Scientists and Ologist Philippines
 * 1st Openmind Winter School on Reinforcement Learning (26 Jan to 29 Jan 2026), UTAR, Kuala Lumpur, Malaysia 
 * ICLR 2025 Workshop on Tackling Climate Change with Machine Learning: Data-Centric Approaches in ML for Climate Action (28 April 2025)
 * Oxford University Machine Learning (OxML 2022) Summer School (27 June 2022 to 10 August 2022)
@@ -62,6 +64,9 @@ Memberships
 
 Awards
 ======
+* **Outstanding Young Scientist (OYS) Award** in the field of Energy and Power
+  * Given by the National Academy of Science and Technology (NAST) Philippines
+  * Date: 09 July 2026
 * **Outstanding Engineering Researcher Award**
   * Given by UP College of Engineering for outstanding research productivity in the last 5 years.
   * Date: June 2025 
