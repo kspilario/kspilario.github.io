@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-The following lists my involvement in government and industry funded projects:
+The following lists my involvement in government- and industry-funded projects:
 
 ## Past Projects
 
@@ -16,6 +16,7 @@ The following lists my involvement in government and industry funded projects:
 * Computational Design of High Entropy Alloys for Catalyst and Battery Applications (2022)
   * Role: Project Staff
   * Funding agency: DOST PCIEERD (Philippine Council for Industry, Energy, and Emerging Technology Research and Development)
+  * Won the DOST-PCIEERD Excellence in Project Implementation and Completion (EPIC) Award, June 2026
 
 ## Ongoing Projects
 
