@@ -35,11 +35,24 @@ author_profile: true
 8. **Jilianne Alyssa Crisostomo** (MEngg Artificial Intelligence, 2025)
    * Capstone: A Machine Learning Framework for Airline Seat Dynamic Pricing Using UMAP-KMeans Segmentation and Gradient Boosting Inference
 
-10. **Jemar Laag** (MEngg Artificial Intelligence, 2025)
+9. **Jemar Laag** (MEngg Artificial Intelligence, 2025)
     * Capstone: Machine Learning-Based Deforestation Monitoring and Forecasting Using Sentinel-2 Imagery: A Case Study in Narra, Palawan
   
 10. **Michael Ignacio** (MEngg Artificial Intelligence, 2025)
     * Capstone: Uncertainty Quantification (UQ) of Remaining Useful Life (RUL) Models for Aero-engines
+
+11. **Jomhel Callueng** (MS Environmental Engineering, 2026)
+    * Thesis: Modular Pyrolysis Facility Location-Allocation-Capacity Optimization Model for Combustible Infectious Medical Waste in a Megacity
+    * Co-adviser: Dr. Maria Antonia Tanchuling
+
+12. **Juliene Marie Janer** (MS Chemical Engineering, 2026)
+    * Thesis: Surrogate-Based Optimization and Control of Anaerobic Digesters for Waste-to-Energy Applications
+
+13. **Neil John Catapang** (MEngg Artificial Intelligence, 2026)
+    * Capstone: Real-Time Soft Sensing and Fault Diagnosis in a Continuous Stirred-Tank Reactor (CSTR) using Deep Learning and RAG-Assisted AI Copilot
+
+14. **Kenneth Allen Albelda** (MEngg Artificial Intelligence, 2026)
+    * Capstone: Automatic Causal Graph Discovery from Chemical Process Data for Fault Diagnosis
 
 
 # Faculty
