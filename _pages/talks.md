@@ -4,6 +4,11 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+## Systems Thinking and AI for Sustainable Development
+Date: *16 June 2026*
+* Event: Engineering Research Congress 2026
+* Organizer: College of Engineering, Adamson University
+* Type: Keynote Speaker 
 
 ## Overview of AI and ML for the Filipino Audience
 Date: *16 January 2026*
