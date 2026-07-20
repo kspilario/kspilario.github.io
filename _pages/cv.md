@@ -48,6 +48,7 @@ Trainings Attended
 ======
 * BooS&TCamp: Designing Better Maps with QGIS (6 Jun 2026), Organized by Pinoy Scientists and Ologist Philippines
 * BooS&TCamp: Creating Impactful Data Visuals (23 May 2026), Organized by Pinoy Scientists and Ologist Philippines
+* Patent Search Workshop (16 Mar, 23 Mar 2026), UP Diliman Technology Transfer and Business Development Office 
 * 1st Openmind Winter School on Reinforcement Learning (26 Jan to 29 Jan 2026), UTAR, Kuala Lumpur, Malaysia 
 * ICLR 2025 Workshop on Tackling Climate Change with Machine Learning: Data-Centric Approaches in ML for Climate Action (28 April 2025)
 * Oxford University Machine Learning (OxML 2022) Summer School (27 June 2022 to 10 August 2022)
