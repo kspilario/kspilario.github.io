@@ -6,7 +6,13 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-The following lists my involvement in government- and industry-funded projects:
+Our projects are typically anchored to various stages in the data analytics pipeline. We have experience in these tools:
+
+<p align="center">
+    <img src="images/psel_tools.png" width="200">
+</p>
+
+The following lists our involvement in government- and industry-funded projects:
 
 ## Past Projects
 
