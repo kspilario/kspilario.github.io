@@ -9,7 +9,7 @@ redirect_from:
 Our projects are typically anchored to various stages in the data analytics pipeline. We have experience in these tools:
 
 <p align="center">
-    <img src="../images/psel_tools.png" width="200">
+    <img src="../images/psel_tools.png" width="500">
 </p>
 
 The following lists our involvement in government- and industry-funded projects:
