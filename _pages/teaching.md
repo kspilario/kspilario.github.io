@@ -18,4 +18,5 @@ Here is a list of courses I have taught:
 - [**AI 221**](/teaching/ai221) Classical Machine Learning
 - [**DS 397**](/teaching/ds397) Advanced Computational Methods in Data Science
 - [**ES 204**](/teaching/es204) Numerical Methods in Engineering
+- [**EgyE 332**](/teaching/egye332) Energy Optimization and System Dynamics
 
