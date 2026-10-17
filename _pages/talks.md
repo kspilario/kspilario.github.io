@@ -4,6 +4,14 @@ title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+## Active Learning of Cost-Effective Integrated Carbon Capture and Conversion Plants
+Date: *13 October 2026*
+* Event: 2026 Asia Symposium on Net Zero Engineering and Technologies
+* Organizer: Project RENetZero, funded by DOST and UP Office of Institutional Linkages
+* Venue: Harolds Hotel, Cebu City, Philippines
+* Type: Resource Speaker
+
 ## Systems Thinking and AI for Sustainable Development
 Date: *16 June 2026*
 * Event: Engineering Research Congress 2026
