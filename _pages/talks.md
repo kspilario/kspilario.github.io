@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+## AI-based Search and Discovery in Chemical Engineering
+Date: *18 October 2026* 
+* Organizer: Philippine Institute of Chemical Engineers (PIChE) - Bataan
+* Seminar Theme: Redefining Chemical Engineering with AI: Digital Skills, Intelligent Search, and Optimization
+* Type: Resource Speaker (Online)
+
 ## Active Learning of Cost-Effective Integrated Carbon Capture and Conversion Plants
 Date: *13 October 2026*
 * Event: 2026 Asia Symposium on Net Zero Engineering and Technologies
