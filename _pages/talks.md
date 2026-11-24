@@ -5,6 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Learning in Wicked Environments: The Challenge of AI in Science and Engineering
+Date: *5 November 2026* 
+* Organizer: Department of Science and Technology - National Academy of Science and Technology (DOST-NAST)
+* Event: NAST Lecture Series - A Dialogue with NAST PHL Scientists
+* Venue: Golden Prince Hotel, Cebu City
+* Type: Resource Speaker
+
+
 ## AI-based Search and Discovery in Chemical Engineering
 Date: *18 October 2026* 
 * Organizer: Philippine Institute of Chemical Engineers (PIChE) - Bataan
